@@ -1,0 +1,29 @@
+{
+  "name": "notejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VuHPhuc/notejs_blog.git"
+  },
+  "keywords": [
+    "notejs"
+  ],
+  "author": "Phuc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VuHPhuc/notejs_blog/issues"
+  },
+  "homepage": "https://github.com/VuHPhuc/notejs_blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
